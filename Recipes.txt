@@ -7,3 +7,5 @@ maggi
 kheer
 rice 
 dal
+sweet
+curd
